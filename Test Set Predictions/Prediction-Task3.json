@@ -1,0 +1,4658 @@
+[
+    {
+       "600002":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.62,
+             "STEREOTYPING-DOMINANCE":0.26,
+             "OBJECTIFICATION":0.06,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.05,
+             "SEXUAL-VIOLENCE":0.05
+          }
+       }
+    },
+    {
+       "600005":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.14,
+             "STEREOTYPING-DOMINANCE":0.53,
+             "OBJECTIFICATION":0.06,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.23,
+             "SEXUAL-VIOLENCE":0.23
+          }
+       }
+    },
+    {
+       "600006":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.28,
+             "STEREOTYPING-DOMINANCE":0.2,
+             "OBJECTIFICATION":0.14,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.24,
+             "SEXUAL-VIOLENCE":0.24
+          }
+       }
+    },
+    {
+       "600013":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.43,
+             "STEREOTYPING-DOMINANCE":0.09,
+             "OBJECTIFICATION":0.04,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.05,
+             "SEXUAL-VIOLENCE":0.05
+          }
+       }
+    },
+    {
+       "600019":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.59,
+             "STEREOTYPING-DOMINANCE":0.19,
+             "OBJECTIFICATION":0.07,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.13,
+             "SEXUAL-VIOLENCE":0.13
+          }
+       }
+    },
+    {
+       "600023":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.52,
+             "STEREOTYPING-DOMINANCE":0.06,
+             "OBJECTIFICATION":0.1,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600026":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.42,
+             "STEREOTYPING-DOMINANCE":0.23,
+             "OBJECTIFICATION":0.08,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.2,
+             "SEXUAL-VIOLENCE":0.2
+          }
+       }
+    },
+    {
+       "600027":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.75,
+             "STEREOTYPING-DOMINANCE":0.1,
+             "OBJECTIFICATION":0.06,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600029":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.26,
+             "STEREOTYPING-DOMINANCE":0.35,
+             "OBJECTIFICATION":0.17,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.05,
+             "SEXUAL-VIOLENCE":0.05
+          }
+       }
+    },
+    {
+       "600030":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.38,
+             "STEREOTYPING-DOMINANCE":0.14,
+             "OBJECTIFICATION":0.1,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.35,
+             "SEXUAL-VIOLENCE":0.35
+          }
+       }
+    },
+    {
+       "600031":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.62,
+             "STEREOTYPING-DOMINANCE":0.22,
+             "OBJECTIFICATION":0.06,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.06,
+             "SEXUAL-VIOLENCE":0.06
+          }
+       }
+    },
+    {
+       "600035":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.64,
+             "STEREOTYPING-DOMINANCE":0.26,
+             "OBJECTIFICATION":0.06,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600046":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.69,
+             "STEREOTYPING-DOMINANCE":0.2,
+             "OBJECTIFICATION":0.02,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.07,
+             "SEXUAL-VIOLENCE":0.07
+          }
+       }
+    },
+    {
+       "600048":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.72,
+             "STEREOTYPING-DOMINANCE":0.18,
+             "OBJECTIFICATION":0.08,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.01,
+             "SEXUAL-VIOLENCE":0.01
+          }
+       }
+    },
+    {
+       "600050":{
+          "Hard Label":"SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.3,
+             "STEREOTYPING-DOMINANCE":0.0,
+             "OBJECTIFICATION":0.02,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.06,
+             "SEXUAL-VIOLENCE":0.06
+          }
+       }
+    },
+    {
+       "600056":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.38,
+             "STEREOTYPING-DOMINANCE":0.39,
+             "OBJECTIFICATION":0.13,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.01,
+             "SEXUAL-VIOLENCE":0.01
+          }
+       }
+    },
+    {
+       "600057":{
+          "Hard Label":"MISOGYNY-NON-SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.23,
+             "STEREOTYPING-DOMINANCE":0.09,
+             "OBJECTIFICATION":0.07,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.59,
+             "SEXUAL-VIOLENCE":0.59
+          }
+       }
+    },
+    {
+       "600061":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.77,
+             "STEREOTYPING-DOMINANCE":0.1,
+             "OBJECTIFICATION":0.02,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.11,
+             "SEXUAL-VIOLENCE":0.11
+          }
+       }
+    },
+    {
+       "600062":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.95,
+             "STEREOTYPING-DOMINANCE":0.03,
+             "OBJECTIFICATION":0.01,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.01,
+             "SEXUAL-VIOLENCE":0.01
+          }
+       }
+    },
+    {
+       "600063":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.4,
+             "STEREOTYPING-DOMINANCE":0.22,
+             "OBJECTIFICATION":0.05,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.29,
+             "SEXUAL-VIOLENCE":0.29
+          }
+       }
+    },
+    {
+       "600064":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.5,
+             "STEREOTYPING-DOMINANCE":0.21,
+             "OBJECTIFICATION":0.11,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.05,
+             "SEXUAL-VIOLENCE":0.05
+          }
+       }
+    },
+    {
+       "600065":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.62,
+             "STEREOTYPING-DOMINANCE":0.29,
+             "OBJECTIFICATION":0.01,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.05,
+             "SEXUAL-VIOLENCE":0.05
+          }
+       }
+    },
+    {
+       "600066":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.49,
+             "STEREOTYPING-DOMINANCE":0.32,
+             "OBJECTIFICATION":0.09,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600085":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.67,
+             "STEREOTYPING-DOMINANCE":0.2,
+             "OBJECTIFICATION":0.05,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.02,
+             "SEXUAL-VIOLENCE":0.02
+          }
+       }
+    },
+    {
+       "600086":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.48,
+             "STEREOTYPING-DOMINANCE":0.21,
+             "OBJECTIFICATION":0.21,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.01,
+             "SEXUAL-VIOLENCE":0.01
+          }
+       }
+    },
+    {
+       "600087":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.43,
+             "STEREOTYPING-DOMINANCE":0.35,
+             "OBJECTIFICATION":0.12,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600088":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.56,
+             "STEREOTYPING-DOMINANCE":0.28,
+             "OBJECTIFICATION":0.05,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.05,
+             "SEXUAL-VIOLENCE":0.05
+          }
+       }
+    },
+    {
+       "600089":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.71,
+             "STEREOTYPING-DOMINANCE":0.1,
+             "OBJECTIFICATION":0.06,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.07,
+             "SEXUAL-VIOLENCE":0.07
+          }
+       }
+    },
+    {
+       "600090":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.61,
+             "STEREOTYPING-DOMINANCE":0.18,
+             "OBJECTIFICATION":0.17,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600098":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.37,
+             "STEREOTYPING-DOMINANCE":0.32,
+             "OBJECTIFICATION":0.16,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.04,
+             "SEXUAL-VIOLENCE":0.04
+          }
+       }
+    },
+    {
+       "600102":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.48,
+             "STEREOTYPING-DOMINANCE":0.26,
+             "OBJECTIFICATION":0.18,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.04,
+             "SEXUAL-VIOLENCE":0.04
+          }
+       }
+    },
+    {
+       "600113":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.68,
+             "STEREOTYPING-DOMINANCE":0.18,
+             "OBJECTIFICATION":0.1,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.02,
+             "SEXUAL-VIOLENCE":0.02
+          }
+       }
+    },
+    {
+       "600121":{
+          "Hard Label":"MISOGYNY-NON-SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.04,
+             "STEREOTYPING-DOMINANCE":0.2,
+             "OBJECTIFICATION":0.26,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.44,
+             "SEXUAL-VIOLENCE":0.44
+          }
+       }
+    },
+    {
+       "600122":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.01,
+             "STEREOTYPING-DOMINANCE":0.16,
+             "OBJECTIFICATION":0.36,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.36,
+             "SEXUAL-VIOLENCE":0.36
+          }
+       }
+    },
+    {
+       "600123":{
+          "Hard Label":"MISOGYNY-NON-SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.09,
+             "STEREOTYPING-DOMINANCE":0.29,
+             "OBJECTIFICATION":0.22,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.35,
+             "SEXUAL-VIOLENCE":0.35
+          }
+       }
+    },
+    {
+       "600124":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.09,
+             "STEREOTYPING-DOMINANCE":0.21,
+             "OBJECTIFICATION":0.3,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.21,
+             "SEXUAL-VIOLENCE":0.21
+          }
+       }
+    },
+    {
+       "600126":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.2,
+             "STEREOTYPING-DOMINANCE":0.23,
+             "OBJECTIFICATION":0.24,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.23,
+             "SEXUAL-VIOLENCE":0.23
+          }
+       }
+    },
+    {
+       "600127":{
+          "Hard Label":"MISOGYNY-NON-SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.02,
+             "STEREOTYPING-DOMINANCE":0.31,
+             "OBJECTIFICATION":0.27,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.38,
+             "SEXUAL-VIOLENCE":0.38
+          }
+       }
+    },
+    {
+       "600128":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.12,
+             "STEREOTYPING-DOMINANCE":0.29,
+             "OBJECTIFICATION":0.24,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.28,
+             "SEXUAL-VIOLENCE":0.28
+          }
+       }
+    },
+    {
+       "600129":{
+          "Hard Label":"MISOGYNY-NON-SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.06,
+             "STEREOTYPING-DOMINANCE":0.28,
+             "OBJECTIFICATION":0.27,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.36,
+             "SEXUAL-VIOLENCE":0.36
+          }
+       }
+    },
+    {
+       "600130":{
+          "Hard Label":"MISOGYNY-NON-SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.01,
+             "STEREOTYPING-DOMINANCE":0.19,
+             "OBJECTIFICATION":0.25,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.5,
+             "SEXUAL-VIOLENCE":0.5
+          }
+       }
+    },
+    {
+       "600131":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.04,
+             "STEREOTYPING-DOMINANCE":0.16,
+             "OBJECTIFICATION":0.4,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.38,
+             "SEXUAL-VIOLENCE":0.38
+          }
+       }
+    },
+    {
+       "600132":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.13,
+             "STEREOTYPING-DOMINANCE":0.4,
+             "OBJECTIFICATION":0.24,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.21,
+             "SEXUAL-VIOLENCE":0.21
+          }
+       }
+    },
+    {
+       "600133":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.76,
+             "STEREOTYPING-DOMINANCE":0.12,
+             "OBJECTIFICATION":0.02,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.09,
+             "SEXUAL-VIOLENCE":0.09
+          }
+       }
+    },
+    {
+       "600134":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.48,
+             "STEREOTYPING-DOMINANCE":0.38,
+             "OBJECTIFICATION":0.03,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.08,
+             "SEXUAL-VIOLENCE":0.08
+          }
+       }
+    },
+    {
+       "600135":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.39,
+             "STEREOTYPING-DOMINANCE":0.3,
+             "OBJECTIFICATION":0.1,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.08,
+             "SEXUAL-VIOLENCE":0.08
+          }
+       }
+    },
+    {
+       "600136":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.7,
+             "STEREOTYPING-DOMINANCE":0.07,
+             "OBJECTIFICATION":0.14,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.05,
+             "SEXUAL-VIOLENCE":0.05
+          }
+       }
+    },
+    {
+       "600137":{
+          "Hard Label":"SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.21,
+             "STEREOTYPING-DOMINANCE":0.01,
+             "OBJECTIFICATION":0.0,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.06,
+             "SEXUAL-VIOLENCE":0.06
+          }
+       }
+    },
+    {
+       "600138":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.7,
+             "STEREOTYPING-DOMINANCE":0.2,
+             "OBJECTIFICATION":0.01,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.05,
+             "SEXUAL-VIOLENCE":0.05
+          }
+       }
+    },
+    {
+       "600149":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.79,
+             "STEREOTYPING-DOMINANCE":0.07,
+             "OBJECTIFICATION":0.02,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.01,
+             "SEXUAL-VIOLENCE":0.01
+          }
+       }
+    },
+    {
+       "600151":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.35,
+             "STEREOTYPING-DOMINANCE":0.41,
+             "OBJECTIFICATION":0.16,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.05,
+             "SEXUAL-VIOLENCE":0.05
+          }
+       }
+    },
+    {
+       "600152":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.17,
+             "STEREOTYPING-DOMINANCE":0.3,
+             "OBJECTIFICATION":0.36,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.14,
+             "SEXUAL-VIOLENCE":0.14
+          }
+       }
+    },
+    {
+       "600153":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.42,
+             "STEREOTYPING-DOMINANCE":0.34,
+             "OBJECTIFICATION":0.02,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.16,
+             "SEXUAL-VIOLENCE":0.16
+          }
+       }
+    },
+    {
+       "600154":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.52,
+             "STEREOTYPING-DOMINANCE":0.11,
+             "OBJECTIFICATION":0.15,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.2,
+             "SEXUAL-VIOLENCE":0.2
+          }
+       }
+    },
+    {
+       "600155":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.67,
+             "STEREOTYPING-DOMINANCE":0.14,
+             "OBJECTIFICATION":0.08,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.09,
+             "SEXUAL-VIOLENCE":0.09
+          }
+       }
+    },
+    {
+       "600156":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.44,
+             "STEREOTYPING-DOMINANCE":0.35,
+             "OBJECTIFICATION":0.09,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.05,
+             "SEXUAL-VIOLENCE":0.05
+          }
+       }
+    },
+    {
+       "600157":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.5,
+             "STEREOTYPING-DOMINANCE":0.2,
+             "OBJECTIFICATION":0.08,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.11,
+             "SEXUAL-VIOLENCE":0.11
+          }
+       }
+    },
+    {
+       "600158":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.29,
+             "STEREOTYPING-DOMINANCE":0.33,
+             "OBJECTIFICATION":0.17,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.12,
+             "SEXUAL-VIOLENCE":0.12
+          }
+       }
+    },
+    {
+       "600159":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.63,
+             "STEREOTYPING-DOMINANCE":0.24,
+             "OBJECTIFICATION":0.03,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.06,
+             "SEXUAL-VIOLENCE":0.06
+          }
+       }
+    },
+    {
+       "600160":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.41,
+             "STEREOTYPING-DOMINANCE":0.27,
+             "OBJECTIFICATION":0.12,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.08,
+             "SEXUAL-VIOLENCE":0.08
+          }
+       }
+    },
+    {
+       "600161":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.47,
+             "STEREOTYPING-DOMINANCE":0.11,
+             "OBJECTIFICATION":0.15,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.18,
+             "SEXUAL-VIOLENCE":0.18
+          }
+       }
+    },
+    {
+       "600162":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.65,
+             "STEREOTYPING-DOMINANCE":0.22,
+             "OBJECTIFICATION":0.05,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.04,
+             "SEXUAL-VIOLENCE":0.04
+          }
+       }
+    },
+    {
+       "600181":{
+          "Hard Label":"MISOGYNY-NON-SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.12,
+             "STEREOTYPING-DOMINANCE":0.2,
+             "OBJECTIFICATION":0.2,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.33,
+             "SEXUAL-VIOLENCE":0.33
+          }
+       }
+    },
+    {
+       "600182":{
+          "Hard Label":"SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.1,
+             "STEREOTYPING-DOMINANCE":0.06,
+             "OBJECTIFICATION":0.21,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.27,
+             "SEXUAL-VIOLENCE":0.27
+          }
+       }
+    },
+    {
+       "600183":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.39,
+             "STEREOTYPING-DOMINANCE":0.21,
+             "OBJECTIFICATION":0.13,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.08,
+             "SEXUAL-VIOLENCE":0.08
+          }
+       }
+    },
+    {
+       "600184":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.19,
+             "STEREOTYPING-DOMINANCE":0.06,
+             "OBJECTIFICATION":0.3,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.19,
+             "SEXUAL-VIOLENCE":0.19
+          }
+       }
+    },
+    {
+       "600186":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.43,
+             "STEREOTYPING-DOMINANCE":0.15,
+             "OBJECTIFICATION":0.2,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.11,
+             "SEXUAL-VIOLENCE":0.11
+          }
+       }
+    },
+    {
+       "600187":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.02,
+             "STEREOTYPING-DOMINANCE":0.39,
+             "OBJECTIFICATION":0.3,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600188":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.03,
+             "STEREOTYPING-DOMINANCE":0.33,
+             "OBJECTIFICATION":0.49,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.02,
+             "SEXUAL-VIOLENCE":0.02
+          }
+       }
+    },
+    {
+       "600189":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.2,
+             "STEREOTYPING-DOMINANCE":0.28,
+             "OBJECTIFICATION":0.21,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.05,
+             "SEXUAL-VIOLENCE":0.05
+          }
+       }
+    },
+    {
+       "600190":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.05,
+             "STEREOTYPING-DOMINANCE":0.26,
+             "OBJECTIFICATION":0.48,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.09,
+             "SEXUAL-VIOLENCE":0.09
+          }
+       }
+    },
+    {
+       "600191":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.13,
+             "STEREOTYPING-DOMINANCE":0.17,
+             "OBJECTIFICATION":0.34,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.11,
+             "SEXUAL-VIOLENCE":0.11
+          }
+       }
+    },
+    {
+       "600192":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.28,
+             "STEREOTYPING-DOMINANCE":0.367,
+             "OBJECTIFICATION":0.16,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.07,
+             "SEXUAL-VIOLENCE":0.07
+          }
+       }
+    },
+    {
+       "600193":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.02,
+             "STEREOTYPING-DOMINANCE":0.05,
+             "OBJECTIFICATION":0.55,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600194":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.04,
+             "STEREOTYPING-DOMINANCE":0.04,
+             "OBJECTIFICATION":0.54,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600196":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.05,
+             "STEREOTYPING-DOMINANCE":0.11,
+             "OBJECTIFICATION":0.6,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600197":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.03,
+             "STEREOTYPING-DOMINANCE":0.09,
+             "OBJECTIFICATION":0.57,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.04,
+             "SEXUAL-VIOLENCE":0.04
+          }
+       }
+    },
+    {
+       "600198":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.04,
+             "STEREOTYPING-DOMINANCE":0.12,
+             "OBJECTIFICATION":0.52,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600211":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.18,
+             "STEREOTYPING-DOMINANCE":0.79,
+             "OBJECTIFICATION":0.02,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600212":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.24,
+             "STEREOTYPING-DOMINANCE":0.56,
+             "OBJECTIFICATION":0.12,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.02,
+             "SEXUAL-VIOLENCE":0.02
+          }
+       }
+    },
+    {
+       "600213":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.11,
+             "STEREOTYPING-DOMINANCE":0.7,
+             "OBJECTIFICATION":0.14,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600214":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.17,
+             "STEREOTYPING-DOMINANCE":0.8,
+             "OBJECTIFICATION":0.01,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600215":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.44,
+             "STEREOTYPING-DOMINANCE":0.54,
+             "OBJECTIFICATION":0.0,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600216":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.58,
+             "STEREOTYPING-DOMINANCE":0.35,
+             "OBJECTIFICATION":0.02,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.01,
+             "SEXUAL-VIOLENCE":0.01
+          }
+       }
+    },
+    {
+       "600218":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.11,
+             "STEREOTYPING-DOMINANCE":0.34,
+             "OBJECTIFICATION":0.3,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.15,
+             "SEXUAL-VIOLENCE":0.15
+          }
+       }
+    },
+    {
+       "600223":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.76,
+             "STEREOTYPING-DOMINANCE":0.12,
+             "OBJECTIFICATION":0.06,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.05,
+             "SEXUAL-VIOLENCE":0.05
+          }
+       }
+    },
+    {
+       "600235":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.02,
+             "STEREOTYPING-DOMINANCE":0.89,
+             "OBJECTIFICATION":0.07,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600236":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.42,
+             "STEREOTYPING-DOMINANCE":0.27,
+             "OBJECTIFICATION":0.17,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.04,
+             "SEXUAL-VIOLENCE":0.04
+          }
+       }
+    },
+    {
+       "600237":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.01,
+             "STEREOTYPING-DOMINANCE":0.87,
+             "OBJECTIFICATION":0.08,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600238":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.0,
+             "STEREOTYPING-DOMINANCE":0.6,
+             "OBJECTIFICATION":0.4,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600239":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.0,
+             "STEREOTYPING-DOMINANCE":0.95,
+             "OBJECTIFICATION":0.05,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600240":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.02,
+             "STEREOTYPING-DOMINANCE":0.93,
+             "OBJECTIFICATION":0.05,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600248":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.78,
+             "STEREOTYPING-DOMINANCE":0.12,
+             "OBJECTIFICATION":0.04,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.04,
+             "SEXUAL-VIOLENCE":0.04
+          }
+       }
+    },
+    {
+       "600249":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.68,
+             "STEREOTYPING-DOMINANCE":0.14,
+             "OBJECTIFICATION":0.06,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600250":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.78,
+             "STEREOTYPING-DOMINANCE":0.12,
+             "OBJECTIFICATION":0.06,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600251":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.69,
+             "STEREOTYPING-DOMINANCE":0.16,
+             "OBJECTIFICATION":0.02,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.09,
+             "SEXUAL-VIOLENCE":0.09
+          }
+       }
+    },
+    {
+       "600252":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.35,
+             "STEREOTYPING-DOMINANCE":0.21,
+             "OBJECTIFICATION":0.14,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.22,
+             "SEXUAL-VIOLENCE":0.22
+          }
+       }
+    },
+    {
+       "600253":{
+          "Hard Label":"SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.27,
+             "STEREOTYPING-DOMINANCE":0.07,
+             "OBJECTIFICATION":0.04,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.07,
+             "SEXUAL-VIOLENCE":0.07
+          }
+       }
+    },
+    {
+       "600254":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.6,
+             "STEREOTYPING-DOMINANCE":0.23,
+             "OBJECTIFICATION":0.05,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.1,
+             "SEXUAL-VIOLENCE":0.1
+          }
+       }
+    },
+    {
+       "600265":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.59,
+             "STEREOTYPING-DOMINANCE":0.24,
+             "OBJECTIFICATION":0.04,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.06,
+             "SEXUAL-VIOLENCE":0.06
+          }
+       }
+    },
+    {
+       "600266":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.36,
+             "STEREOTYPING-DOMINANCE":0.2,
+             "OBJECTIFICATION":0.18,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.06,
+             "SEXUAL-VIOLENCE":0.06
+          }
+       }
+    },
+    {
+       "600267":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.89,
+             "STEREOTYPING-DOMINANCE":0.08,
+             "OBJECTIFICATION":0.01,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.02,
+             "SEXUAL-VIOLENCE":0.02
+          }
+       }
+    },
+    {
+       "600268":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.84,
+             "STEREOTYPING-DOMINANCE":0.1,
+             "OBJECTIFICATION":0.04,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.01,
+             "SEXUAL-VIOLENCE":0.01
+          }
+       }
+    },
+    {
+       "600269":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.88,
+             "STEREOTYPING-DOMINANCE":0.03,
+             "OBJECTIFICATION":0.02,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.04,
+             "SEXUAL-VIOLENCE":0.04
+          }
+       }
+    },
+    {
+       "600299":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.85,
+             "STEREOTYPING-DOMINANCE":0.05,
+             "OBJECTIFICATION":0.03,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.04,
+             "SEXUAL-VIOLENCE":0.04
+          }
+       }
+    },
+    {
+       "600301":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.73,
+             "STEREOTYPING-DOMINANCE":0.02,
+             "OBJECTIFICATION":0.09,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.01,
+             "SEXUAL-VIOLENCE":0.01
+          }
+       }
+    },
+    {
+       "600302":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.54,
+             "STEREOTYPING-DOMINANCE":0.07,
+             "OBJECTIFICATION":0.16,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600303":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.58,
+             "STEREOTYPING-DOMINANCE":0.06,
+             "OBJECTIFICATION":0.02,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.02,
+             "SEXUAL-VIOLENCE":0.02
+          }
+       }
+    },
+    {
+       "600305":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.54,
+             "STEREOTYPING-DOMINANCE":0.097,
+             "OBJECTIFICATION":0.05,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.01,
+             "SEXUAL-VIOLENCE":0.01
+          }
+       }
+    },
+    {
+       "600306":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.61,
+             "STEREOTYPING-DOMINANCE":0.16,
+             "OBJECTIFICATION":0.02,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.11,
+             "SEXUAL-VIOLENCE":0.11
+          }
+       }
+    },
+    {
+       "600311":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.79,
+             "STEREOTYPING-DOMINANCE":0.16,
+             "OBJECTIFICATION":0.04,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600313":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.92,
+             "STEREOTYPING-DOMINANCE":0.01,
+             "OBJECTIFICATION":0.01,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.02,
+             "SEXUAL-VIOLENCE":0.02
+          }
+       }
+    },
+    {
+       "600314":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.76,
+             "STEREOTYPING-DOMINANCE":0.05,
+             "OBJECTIFICATION":0.1,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.08,
+             "SEXUAL-VIOLENCE":0.08
+          }
+       }
+    },
+    {
+       "600316":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.87,
+             "STEREOTYPING-DOMINANCE":0.03,
+             "OBJECTIFICATION":0.02,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.07,
+             "SEXUAL-VIOLENCE":0.07
+          }
+       }
+    },
+    {
+       "600317":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.81,
+             "STEREOTYPING-DOMINANCE":0.08,
+             "OBJECTIFICATION":0.03,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.05,
+             "SEXUAL-VIOLENCE":0.05
+          }
+       }
+    },
+    {
+       "600319":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.57,
+             "STEREOTYPING-DOMINANCE":0.29,
+             "OBJECTIFICATION":0.1,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.02,
+             "SEXUAL-VIOLENCE":0.02
+          }
+       }
+    },
+    {
+       "600320":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.76,
+             "STEREOTYPING-DOMINANCE":0.07,
+             "OBJECTIFICATION":0.02,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.13,
+             "SEXUAL-VIOLENCE":0.13
+          }
+       }
+    },
+    {
+       "600321":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.79,
+             "STEREOTYPING-DOMINANCE":0.06,
+             "OBJECTIFICATION":0.06,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.05,
+             "SEXUAL-VIOLENCE":0.05
+          }
+       }
+    },
+    {
+       "600322":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.72,
+             "STEREOTYPING-DOMINANCE":0.1,
+             "OBJECTIFICATION":0.14,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.04,
+             "SEXUAL-VIOLENCE":0.04
+          }
+       }
+    },
+    {
+       "600323":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.77,
+             "STEREOTYPING-DOMINANCE":0.09,
+             "OBJECTIFICATION":0.07,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.05,
+             "SEXUAL-VIOLENCE":0.05
+          }
+       }
+    },
+    {
+       "600325":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.63,
+             "STEREOTYPING-DOMINANCE":0.12,
+             "OBJECTIFICATION":0.15,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600326":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.75,
+             "STEREOTYPING-DOMINANCE":0.08,
+             "OBJECTIFICATION":0.1,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600327":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.49,
+             "STEREOTYPING-DOMINANCE":0.33,
+             "OBJECTIFICATION":0.15,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600328":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.79,
+             "STEREOTYPING-DOMINANCE":0.12,
+             "OBJECTIFICATION":0.07,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.02,
+             "SEXUAL-VIOLENCE":0.02
+          }
+       }
+    },
+    {
+       "600329":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.65,
+             "STEREOTYPING-DOMINANCE":0.26,
+             "OBJECTIFICATION":0.07,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600330":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.67,
+             "STEREOTYPING-DOMINANCE":0.18,
+             "OBJECTIFICATION":0.1,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600331":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.79,
+             "STEREOTYPING-DOMINANCE":0.04,
+             "OBJECTIFICATION":0.06,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.02,
+             "SEXUAL-VIOLENCE":0.02
+          }
+       }
+    },
+    {
+       "600332":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.48,
+             "STEREOTYPING-DOMINANCE":0.39,
+             "OBJECTIFICATION":0.04,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.05,
+             "SEXUAL-VIOLENCE":0.05
+          }
+       }
+    },
+    {
+       "600333":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.7,
+             "STEREOTYPING-DOMINANCE":0.08,
+             "OBJECTIFICATION":0.08,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600334":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.6,
+             "STEREOTYPING-DOMINANCE":0.15,
+             "OBJECTIFICATION":0.13,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.05,
+             "SEXUAL-VIOLENCE":0.05
+          }
+       }
+    },
+    {
+       "600335":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.75,
+             "STEREOTYPING-DOMINANCE":0.07,
+             "OBJECTIFICATION":0.04,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.09,
+             "SEXUAL-VIOLENCE":0.09
+          }
+       }
+    },
+    {
+       "600336":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.79,
+             "STEREOTYPING-DOMINANCE":0.01,
+             "OBJECTIFICATION":0.04,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.07,
+             "SEXUAL-VIOLENCE":0.07
+          }
+       }
+    },
+    {
+       "600340":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.22,
+             "STEREOTYPING-DOMINANCE":0.34,
+             "OBJECTIFICATION":0.11,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.19,
+             "SEXUAL-VIOLENCE":0.19
+          }
+       }
+    },
+    {
+       "600345":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.1,
+             "STEREOTYPING-DOMINANCE":0.34,
+             "OBJECTIFICATION":0.28,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.25,
+             "SEXUAL-VIOLENCE":0.25
+          }
+       }
+    },
+    {
+       "600355":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.2,
+             "STEREOTYPING-DOMINANCE":0.35,
+             "OBJECTIFICATION":0.19,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.06,
+             "SEXUAL-VIOLENCE":0.06
+          }
+       }
+    },
+    {
+       "600362":{
+          "Hard Label":"MISOGYNY-NON-SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.01,
+             "STEREOTYPING-DOMINANCE":0.04,
+             "OBJECTIFICATION":0.39,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.52,
+             "SEXUAL-VIOLENCE":0.52
+          }
+       }
+    },
+    {
+       "600363":{
+          "Hard Label":"MISOGYNY-NON-SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.03,
+             "STEREOTYPING-DOMINANCE":0.05,
+             "OBJECTIFICATION":0.33,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.54,
+             "SEXUAL-VIOLENCE":0.54
+          }
+       }
+    },
+    {
+       "600364":{
+          "Hard Label":"MISOGYNY-NON-SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.02,
+             "STEREOTYPING-DOMINANCE":0.23,
+             "OBJECTIFICATION":0.27,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.43,
+             "SEXUAL-VIOLENCE":0.43
+          }
+       }
+    },
+    {
+       "600365":{
+          "Hard Label":"MISOGYNY-NON-SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.04,
+             "STEREOTYPING-DOMINANCE":0.04,
+             "OBJECTIFICATION":0.44,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.46,
+             "SEXUAL-VIOLENCE":0.46
+          }
+       }
+    },
+    {
+       "600368":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.07,
+             "STEREOTYPING-DOMINANCE":0.09,
+             "OBJECTIFICATION":0.61,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.13,
+             "SEXUAL-VIOLENCE":0.13
+          }
+       }
+    },
+    {
+       "600371":{
+          "Hard Label":"SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.07,
+             "STEREOTYPING-DOMINANCE":0.13,
+             "OBJECTIFICATION":0.04,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600372":{
+          "Hard Label":"SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.04,
+             "STEREOTYPING-DOMINANCE":0.08,
+             "OBJECTIFICATION":0.15,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.11,
+             "SEXUAL-VIOLENCE":0.11
+          }
+       }
+    },
+    {
+       "600373":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.69,
+             "STEREOTYPING-DOMINANCE":0.14,
+             "OBJECTIFICATION":0.05,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600378":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.5,
+             "STEREOTYPING-DOMINANCE":0.03,
+             "OBJECTIFICATION":0.15,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600382":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.65,
+             "STEREOTYPING-DOMINANCE":0.25,
+             "OBJECTIFICATION":0.02,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.06,
+             "SEXUAL-VIOLENCE":0.06
+          }
+       }
+    },
+    {
+       "600386":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.5,
+             "STEREOTYPING-DOMINANCE":0.4,
+             "OBJECTIFICATION":0.02,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.06,
+             "SEXUAL-VIOLENCE":0.06
+          }
+       }
+    },
+    {
+       "600387":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.73,
+             "STEREOTYPING-DOMINANCE":0.15,
+             "OBJECTIFICATION":0.03,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.02,
+             "SEXUAL-VIOLENCE":0.02
+          }
+       }
+    },
+    {
+       "600390":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.68,
+             "STEREOTYPING-DOMINANCE":0.14,
+             "OBJECTIFICATION":0.01,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.1,
+             "SEXUAL-VIOLENCE":0.1
+          }
+       }
+    },
+    {
+       "600392":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.14,
+             "STEREOTYPING-DOMINANCE":0.51,
+             "OBJECTIFICATION":0.26,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.06,
+             "SEXUAL-VIOLENCE":0.06
+          }
+       }
+    },
+    {
+       "600399":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.14,
+             "STEREOTYPING-DOMINANCE":0.45,
+             "OBJECTIFICATION":0.13,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.19,
+             "SEXUAL-VIOLENCE":0.19
+          }
+       }
+    },
+    {
+       "600400":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.17,
+             "STEREOTYPING-DOMINANCE":0.29,
+             "OBJECTIFICATION":0.28,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.08,
+             "SEXUAL-VIOLENCE":0.08
+          }
+       }
+    },
+    {
+       "600414":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.21,
+             "STEREOTYPING-DOMINANCE":0.41,
+             "OBJECTIFICATION":0.22,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.04,
+             "SEXUAL-VIOLENCE":0.04
+          }
+       }
+    },
+    {
+       "600422":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.69,
+             "STEREOTYPING-DOMINANCE":0.16,
+             "OBJECTIFICATION":0.04,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600433":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.12,
+             "STEREOTYPING-DOMINANCE":0.46,
+             "OBJECTIFICATION":0.38,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600439":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.2,
+             "STEREOTYPING-DOMINANCE":0.3,
+             "OBJECTIFICATION":0.14,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.28,
+             "SEXUAL-VIOLENCE":0.28
+          }
+       }
+    },
+    {
+       "600440":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.54,
+             "STEREOTYPING-DOMINANCE":0.25,
+             "OBJECTIFICATION":0.11,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.09,
+             "SEXUAL-VIOLENCE":0.09
+          }
+       }
+    },
+    {
+       "600441":{
+          "Hard Label":"MISOGYNY-NON-SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.34,
+             "STEREOTYPING-DOMINANCE":0.0,
+             "OBJECTIFICATION":0.15,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.5,
+             "SEXUAL-VIOLENCE":0.5
+          }
+       }
+    },
+    {
+       "600442":{
+          "Hard Label":"MISOGYNY-NON-SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.21,
+             "STEREOTYPING-DOMINANCE":0.35,
+             "OBJECTIFICATION":0.04,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.36,
+             "SEXUAL-VIOLENCE":0.36
+          }
+       }
+    },
+    {
+       "600443":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.36,
+             "STEREOTYPING-DOMINANCE":0.14,
+             "OBJECTIFICATION":0.13,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.31,
+             "SEXUAL-VIOLENCE":0.31
+          }
+       }
+    },
+    {
+       "600444":{
+          "Hard Label":"MISOGYNY-NON-SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.26,
+             "STEREOTYPING-DOMINANCE":0.21,
+             "OBJECTIFICATION":0.12,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.38,
+             "SEXUAL-VIOLENCE":0.38
+          }
+       }
+    },
+    {
+       "600448":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.15,
+             "STEREOTYPING-DOMINANCE":0.35,
+             "OBJECTIFICATION":0.24,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.08,
+             "SEXUAL-VIOLENCE":0.08
+          }
+       }
+    },
+    {
+       "600451":{
+          "Hard Label":"MISOGYNY-NON-SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.04,
+             "STEREOTYPING-DOMINANCE":0.3,
+             "OBJECTIFICATION":0.01,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.65,
+             "SEXUAL-VIOLENCE":0.65
+          }
+       }
+    },
+    {
+       "600452":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.63,
+             "STEREOTYPING-DOMINANCE":0.11,
+             "OBJECTIFICATION":0.14,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.05,
+             "SEXUAL-VIOLENCE":0.05
+          }
+       }
+    },
+    {
+       "600453":{
+          "Hard Label":"MISOGYNY-NON-SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.07,
+             "STEREOTYPING-DOMINANCE":0.16,
+             "OBJECTIFICATION":0.04,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.73,
+             "SEXUAL-VIOLENCE":0.73
+          }
+       }
+    },
+    {
+       "600454":{
+          "Hard Label":"MISOGYNY-NON-SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.18,
+             "STEREOTYPING-DOMINANCE":0.09,
+             "OBJECTIFICATION":0.08,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.64,
+             "SEXUAL-VIOLENCE":0.64
+          }
+       }
+    },
+    {
+       "600455":{
+          "Hard Label":"MISOGYNY-NON-SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.15,
+             "STEREOTYPING-DOMINANCE":0.04,
+             "OBJECTIFICATION":0.04,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.76,
+             "SEXUAL-VIOLENCE":0.76
+          }
+       }
+    },
+    {
+       "600456":{
+          "Hard Label":"MISOGYNY-NON-SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.33,
+             "STEREOTYPING-DOMINANCE":0.15,
+             "OBJECTIFICATION":0.13,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.35,
+             "SEXUAL-VIOLENCE":0.35
+          }
+       }
+    },
+    {
+       "600457":{
+          "Hard Label":"SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.01,
+             "STEREOTYPING-DOMINANCE":0.0,
+             "OBJECTIFICATION":0.11,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600458":{
+          "Hard Label":"SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.0,
+             "STEREOTYPING-DOMINANCE":0.0,
+             "OBJECTIFICATION":0.04,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600459":{
+          "Hard Label":"SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.0,
+             "STEREOTYPING-DOMINANCE":0.0,
+             "OBJECTIFICATION":0.04,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600460":{
+          "Hard Label":"SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.03,
+             "STEREOTYPING-DOMINANCE":0.03,
+             "OBJECTIFICATION":0.08,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600468":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.84,
+             "STEREOTYPING-DOMINANCE":0.03,
+             "OBJECTIFICATION":0.1,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.02,
+             "SEXUAL-VIOLENCE":0.02
+          }
+       }
+    },
+    {
+       "600469":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.46,
+             "STEREOTYPING-DOMINANCE":0.14,
+             "OBJECTIFICATION":0.11,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.14,
+             "SEXUAL-VIOLENCE":0.14
+          }
+       }
+    },
+    {
+       "600470":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.33,
+             "STEREOTYPING-DOMINANCE":0.16,
+             "OBJECTIFICATION":0.15,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.29,
+             "SEXUAL-VIOLENCE":0.29
+          }
+       }
+    },
+    {
+       "600471":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.51,
+             "STEREOTYPING-DOMINANCE":0.14,
+             "OBJECTIFICATION":0.01,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.24,
+             "SEXUAL-VIOLENCE":0.24
+          }
+       }
+    },
+    {
+       "600472":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.29,
+             "STEREOTYPING-DOMINANCE":0.29,
+             "OBJECTIFICATION":0.06,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.26,
+             "SEXUAL-VIOLENCE":0.26
+          }
+       }
+    },
+    {
+       "600473":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.51,
+             "STEREOTYPING-DOMINANCE":0.27,
+             "OBJECTIFICATION":0.03,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.08,
+             "SEXUAL-VIOLENCE":0.08
+          }
+       }
+    },
+    {
+       "600474":{
+          "Hard Label":"MISOGYNY-NON-SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.19,
+             "STEREOTYPING-DOMINANCE":0.26,
+             "OBJECTIFICATION":0.01,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.47,
+             "SEXUAL-VIOLENCE":0.47
+          }
+       }
+    },
+    {
+       "600477":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.62,
+             "STEREOTYPING-DOMINANCE":0.26,
+             "OBJECTIFICATION":0.06,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600479":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.32,
+             "STEREOTYPING-DOMINANCE":0.28,
+             "OBJECTIFICATION":0.05,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.08,
+             "SEXUAL-VIOLENCE":0.08
+          }
+       }
+    },
+    {
+       "600480":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.48,
+             "STEREOTYPING-DOMINANCE":0.21,
+             "OBJECTIFICATION":0.14,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.1,
+             "SEXUAL-VIOLENCE":0.1
+          }
+       }
+    },
+    {
+       "600481":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.25,
+             "STEREOTYPING-DOMINANCE":0.4,
+             "OBJECTIFICATION":0.08,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.18,
+             "SEXUAL-VIOLENCE":0.18
+          }
+       }
+    },
+    {
+       "600483":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.39,
+             "STEREOTYPING-DOMINANCE":0.2,
+             "OBJECTIFICATION":0.14,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.06,
+             "SEXUAL-VIOLENCE":0.06
+          }
+       }
+    },
+    {
+       "600484":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.48,
+             "STEREOTYPING-DOMINANCE":0.25,
+             "OBJECTIFICATION":0.12,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.1,
+             "SEXUAL-VIOLENCE":0.1
+          }
+       }
+    },
+    {
+       "600487":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.37,
+             "STEREOTYPING-DOMINANCE":0.49,
+             "OBJECTIFICATION":0.11,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600491":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.13,
+             "STEREOTYPING-DOMINANCE":0.59,
+             "OBJECTIFICATION":0.22,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600492":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.36,
+             "STEREOTYPING-DOMINANCE":0.24,
+             "OBJECTIFICATION":0.26,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.1,
+             "SEXUAL-VIOLENCE":0.1
+          }
+       }
+    },
+    {
+       "600493":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.25,
+             "STEREOTYPING-DOMINANCE":0.47,
+             "OBJECTIFICATION":0.26,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.01,
+             "SEXUAL-VIOLENCE":0.01
+          }
+       }
+    },
+    {
+       "600497":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.35,
+             "STEREOTYPING-DOMINANCE":0.37,
+             "OBJECTIFICATION":0.19,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.02,
+             "SEXUAL-VIOLENCE":0.02
+          }
+       }
+    },
+    {
+       "600500":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.18,
+             "STEREOTYPING-DOMINANCE":0.5,
+             "OBJECTIFICATION":0.04,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.15,
+             "SEXUAL-VIOLENCE":0.15
+          }
+       }
+    },
+    {
+       "600501":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.54,
+             "STEREOTYPING-DOMINANCE":0.32,
+             "OBJECTIFICATION":0.05,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.04,
+             "SEXUAL-VIOLENCE":0.04
+          }
+       }
+    },
+    {
+       "600502":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.23,
+             "STEREOTYPING-DOMINANCE":0.52,
+             "OBJECTIFICATION":0.11,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.07,
+             "SEXUAL-VIOLENCE":0.07
+          }
+       }
+    },
+    {
+       "600504":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.37,
+             "STEREOTYPING-DOMINANCE":0.46,
+             "OBJECTIFICATION":0.04,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.06,
+             "SEXUAL-VIOLENCE":0.06
+          }
+       }
+    },
+    {
+       "600508":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.37,
+             "STEREOTYPING-DOMINANCE":0.4,
+             "OBJECTIFICATION":0.06,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.12,
+             "SEXUAL-VIOLENCE":0.12
+          }
+       }
+    },
+    {
+       "600511":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.28,
+             "STEREOTYPING-DOMINANCE":0.31,
+             "OBJECTIFICATION":0.16,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.09,
+             "SEXUAL-VIOLENCE":0.09
+          }
+       }
+    },
+    {
+       "600518":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.59,
+             "STEREOTYPING-DOMINANCE":0.12,
+             "OBJECTIFICATION":0.02,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600519":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.53,
+             "STEREOTYPING-DOMINANCE":0.07,
+             "OBJECTIFICATION":0.07,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.02,
+             "SEXUAL-VIOLENCE":0.02
+          }
+       }
+    },
+    {
+       "600529":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.71,
+             "STEREOTYPING-DOMINANCE":0.18,
+             "OBJECTIFICATION":0.05,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.02,
+             "SEXUAL-VIOLENCE":0.02
+          }
+       }
+    },
+    {
+       "600532":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.81,
+             "STEREOTYPING-DOMINANCE":0.11,
+             "OBJECTIFICATION":0.02,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.01,
+             "SEXUAL-VIOLENCE":0.01
+          }
+       }
+    },
+    {
+       "600535":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.43,
+             "STEREOTYPING-DOMINANCE":0.34,
+             "OBJECTIFICATION":0.09,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.11,
+             "SEXUAL-VIOLENCE":0.11
+          }
+       }
+    },
+    {
+       "600536":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.84,
+             "STEREOTYPING-DOMINANCE":0.1,
+             "OBJECTIFICATION":0.01,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600537":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.45,
+             "STEREOTYPING-DOMINANCE":0.2,
+             "OBJECTIFICATION":0.21,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.05,
+             "SEXUAL-VIOLENCE":0.05
+          }
+       }
+    },
+    {
+       "600538":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.39,
+             "STEREOTYPING-DOMINANCE":0.21,
+             "OBJECTIFICATION":0.21,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.09,
+             "SEXUAL-VIOLENCE":0.09
+          }
+       }
+    },
+    {
+       "600539":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.39,
+             "STEREOTYPING-DOMINANCE":0.34,
+             "OBJECTIFICATION":0.12,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.1,
+             "SEXUAL-VIOLENCE":0.1
+          }
+       }
+    },
+    {
+       "600540":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.22,
+             "STEREOTYPING-DOMINANCE":0.34,
+             "OBJECTIFICATION":0.24,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.06,
+             "SEXUAL-VIOLENCE":0.06
+          }
+       }
+    },
+    {
+       "600546":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.63,
+             "STEREOTYPING-DOMINANCE":0.17,
+             "OBJECTIFICATION":0.05,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.05,
+             "SEXUAL-VIOLENCE":0.05
+          }
+       }
+    },
+    {
+       "600547":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.53,
+             "STEREOTYPING-DOMINANCE":0.15,
+             "OBJECTIFICATION":0.17,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.09,
+             "SEXUAL-VIOLENCE":0.09
+          }
+       }
+    },
+    {
+       "600548":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.53,
+             "STEREOTYPING-DOMINANCE":0.33,
+             "OBJECTIFICATION":0.06,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.05,
+             "SEXUAL-VIOLENCE":0.05
+          }
+       }
+    },
+    {
+       "600549":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.3,
+             "STEREOTYPING-DOMINANCE":0.38,
+             "OBJECTIFICATION":0.16,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.06,
+             "SEXUAL-VIOLENCE":0.06
+          }
+       }
+    },
+    {
+       "600550":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.6,
+             "STEREOTYPING-DOMINANCE":0.24,
+             "OBJECTIFICATION":0.07,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.04,
+             "SEXUAL-VIOLENCE":0.04
+          }
+       }
+    },
+    {
+       "600551":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.65,
+             "STEREOTYPING-DOMINANCE":0.19,
+             "OBJECTIFICATION":0.01,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.02,
+             "SEXUAL-VIOLENCE":0.02
+          }
+       }
+    },
+    {
+       "600552":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.76,
+             "STEREOTYPING-DOMINANCE":0.07,
+             "OBJECTIFICATION":0.0,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600558":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.36,
+             "STEREOTYPING-DOMINANCE":0.21,
+             "OBJECTIFICATION":0.22,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.05,
+             "SEXUAL-VIOLENCE":0.05
+          }
+       }
+    },
+    {
+       "600571":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.54,
+             "STEREOTYPING-DOMINANCE":0.06,
+             "OBJECTIFICATION":0.03,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.06,
+             "SEXUAL-VIOLENCE":0.06
+          }
+       }
+    },
+    {
+       "600572":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.21,
+             "STEREOTYPING-DOMINANCE":0.27,
+             "OBJECTIFICATION":0.24,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.07,
+             "SEXUAL-VIOLENCE":0.07
+          }
+       }
+    },
+    {
+       "600574":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.53,
+             "STEREOTYPING-DOMINANCE":0.07,
+             "OBJECTIFICATION":0.31,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.04,
+             "SEXUAL-VIOLENCE":0.04
+          }
+       }
+    },
+    {
+       "600585":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.63,
+             "STEREOTYPING-DOMINANCE":0.3,
+             "OBJECTIFICATION":0.07,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600588":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.91,
+             "STEREOTYPING-DOMINANCE":0.06,
+             "OBJECTIFICATION":0.0,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.01,
+             "SEXUAL-VIOLENCE":0.01
+          }
+       }
+    },
+    {
+       "600590":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.58,
+             "STEREOTYPING-DOMINANCE":0.16,
+             "OBJECTIFICATION":0.01,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.21,
+             "SEXUAL-VIOLENCE":0.21
+          }
+       }
+    },
+    {
+       "600598":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.77,
+             "STEREOTYPING-DOMINANCE":0.12,
+             "OBJECTIFICATION":0.01,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.06,
+             "SEXUAL-VIOLENCE":0.06
+          }
+       }
+    },
+    {
+       "600600":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.54,
+             "STEREOTYPING-DOMINANCE":0.31,
+             "OBJECTIFICATION":0.1,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600603":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.45,
+             "STEREOTYPING-DOMINANCE":0.41,
+             "OBJECTIFICATION":0.06,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.06,
+             "SEXUAL-VIOLENCE":0.06
+          }
+       }
+    },
+    {
+       "600607":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.14,
+             "STEREOTYPING-DOMINANCE":0.43,
+             "OBJECTIFICATION":0.2,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.12,
+             "SEXUAL-VIOLENCE":0.12
+          }
+       }
+    },
+    {
+       "600608":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.3,
+             "STEREOTYPING-DOMINANCE":0.37,
+             "OBJECTIFICATION":0.16,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.05,
+             "SEXUAL-VIOLENCE":0.05
+          }
+       }
+    },
+    {
+       "600610":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.11,
+             "STEREOTYPING-DOMINANCE":0.59,
+             "OBJECTIFICATION":0.15,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600611":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.33,
+             "STEREOTYPING-DOMINANCE":0.36,
+             "OBJECTIFICATION":0.12,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.05,
+             "SEXUAL-VIOLENCE":0.05
+          }
+       }
+    },
+    {
+       "600612":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.15,
+             "STEREOTYPING-DOMINANCE":0.47,
+             "OBJECTIFICATION":0.23,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600613":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.79,
+             "STEREOTYPING-DOMINANCE":0.09,
+             "OBJECTIFICATION":0.02,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.07,
+             "SEXUAL-VIOLENCE":0.07
+          }
+       }
+    },
+    {
+       "600616":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.58,
+             "STEREOTYPING-DOMINANCE":0.22,
+             "OBJECTIFICATION":0.1,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.04,
+             "SEXUAL-VIOLENCE":0.04
+          }
+       }
+    },
+    {
+       "600638":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.15,
+             "STEREOTYPING-DOMINANCE":0.39,
+             "OBJECTIFICATION":0.24,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.12,
+             "SEXUAL-VIOLENCE":0.12
+          }
+       }
+    },
+    {
+       "600648":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.18,
+             "STEREOTYPING-DOMINANCE":0.27,
+             "OBJECTIFICATION":0.08,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.23,
+             "SEXUAL-VIOLENCE":0.23
+          }
+       }
+    },
+    {
+       "600649":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.29,
+             "STEREOTYPING-DOMINANCE":0.44,
+             "OBJECTIFICATION":0.14,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.08,
+             "SEXUAL-VIOLENCE":0.08
+          }
+       }
+    },
+    {
+       "600655":{
+          "Hard Label":"SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.25,
+             "STEREOTYPING-DOMINANCE":0.05,
+             "OBJECTIFICATION":0.04,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.02,
+             "SEXUAL-VIOLENCE":0.02
+          }
+       }
+    },
+    {
+       "600656":{
+          "Hard Label":"SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.09,
+             "STEREOTYPING-DOMINANCE":0.09,
+             "OBJECTIFICATION":0.13,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.04,
+             "SEXUAL-VIOLENCE":0.04
+          }
+       }
+    },
+    {
+       "600657":{
+          "Hard Label":"SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.19,
+             "STEREOTYPING-DOMINANCE":0.06,
+             "OBJECTIFICATION":0.1,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.04,
+             "SEXUAL-VIOLENCE":0.04
+          }
+       }
+    },
+    {
+       "600658":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.45,
+             "STEREOTYPING-DOMINANCE":0.17,
+             "OBJECTIFICATION":0.02,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.04,
+             "SEXUAL-VIOLENCE":0.04
+          }
+       }
+    },
+    {
+       "600659":{
+          "Hard Label":"SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.26,
+             "STEREOTYPING-DOMINANCE":0.09,
+             "OBJECTIFICATION":0.04,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600660":{
+          "Hard Label":"SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.23,
+             "STEREOTYPING-DOMINANCE":0.06,
+             "OBJECTIFICATION":0.15,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.14,
+             "SEXUAL-VIOLENCE":0.14
+          }
+       }
+    },
+    {
+       "600679":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.54,
+             "STEREOTYPING-DOMINANCE":0.15,
+             "OBJECTIFICATION":0.16,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.06,
+             "SEXUAL-VIOLENCE":0.06
+          }
+       }
+    },
+    {
+       "600680":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.82,
+             "STEREOTYPING-DOMINANCE":0.04,
+             "OBJECTIFICATION":0.02,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.09,
+             "SEXUAL-VIOLENCE":0.09
+          }
+       }
+    },
+    {
+       "600681":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.24,
+             "STEREOTYPING-DOMINANCE":0.28,
+             "OBJECTIFICATION":0.25,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.16,
+             "SEXUAL-VIOLENCE":0.16
+          }
+       }
+    },
+    {
+       "600682":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.42,
+             "STEREOTYPING-DOMINANCE":0.13,
+             "OBJECTIFICATION":0.14,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.14,
+             "SEXUAL-VIOLENCE":0.14
+          }
+       }
+    },
+    {
+       "600683":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.58,
+             "STEREOTYPING-DOMINANCE":0.28,
+             "OBJECTIFICATION":0.07,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.06,
+             "SEXUAL-VIOLENCE":0.06
+          }
+       }
+    },
+    {
+       "600684":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.79,
+             "STEREOTYPING-DOMINANCE":0.15,
+             "OBJECTIFICATION":0.01,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.02,
+             "SEXUAL-VIOLENCE":0.02
+          }
+       }
+    },
+    {
+       "600685":{
+          "Hard Label":"SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.06,
+             "STEREOTYPING-DOMINANCE":0.06,
+             "OBJECTIFICATION":0.2,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.01,
+             "SEXUAL-VIOLENCE":0.01
+          }
+       }
+    },
+    {
+       "600686":{
+          "Hard Label":"SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.05,
+             "STEREOTYPING-DOMINANCE":0.01,
+             "OBJECTIFICATION":0.16,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.02,
+             "SEXUAL-VIOLENCE":0.02
+          }
+       }
+    },
+    {
+       "600687":{
+          "Hard Label":"SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.06,
+             "STEREOTYPING-DOMINANCE":0.01,
+             "OBJECTIFICATION":0.15,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600688":{
+          "Hard Label":"SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.03,
+             "STEREOTYPING-DOMINANCE":0.14,
+             "OBJECTIFICATION":0.22,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.07,
+             "SEXUAL-VIOLENCE":0.07
+          }
+       }
+    },
+    {
+       "600690":{
+          "Hard Label":"SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.1,
+             "STEREOTYPING-DOMINANCE":0.09,
+             "OBJECTIFICATION":0.1,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.05,
+             "SEXUAL-VIOLENCE":0.05
+          }
+       }
+    },
+    {
+       "600707":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.2,
+             "STEREOTYPING-DOMINANCE":0.28,
+             "OBJECTIFICATION":0.29,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.04,
+             "SEXUAL-VIOLENCE":0.04
+          }
+       }
+    },
+    {
+       "600709":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.14,
+             "STEREOTYPING-DOMINANCE":0.49,
+             "OBJECTIFICATION":0.25,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.08,
+             "SEXUAL-VIOLENCE":0.08
+          }
+       }
+    },
+    {
+       "600717":{
+          "Hard Label":"SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.23,
+             "STEREOTYPING-DOMINANCE":0.2,
+             "OBJECTIFICATION":0.12,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.19,
+             "SEXUAL-VIOLENCE":0.19
+          }
+       }
+    },
+    {
+       "600724":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.5,
+             "STEREOTYPING-DOMINANCE":0.3,
+             "OBJECTIFICATION":0.06,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.07,
+             "SEXUAL-VIOLENCE":0.07
+          }
+       }
+    },
+    {
+       "600728":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.04,
+             "STEREOTYPING-DOMINANCE":0.16,
+             "OBJECTIFICATION":0.39,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.35,
+             "SEXUAL-VIOLENCE":0.35
+          }
+       }
+    },
+    {
+       "600741":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.32,
+             "STEREOTYPING-DOMINANCE":0.15,
+             "OBJECTIFICATION":0.5,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.01,
+             "SEXUAL-VIOLENCE":0.01
+          }
+       }
+    },
+    {
+       "600743":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.38,
+             "STEREOTYPING-DOMINANCE":0.07,
+             "OBJECTIFICATION":0.51,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.01,
+             "SEXUAL-VIOLENCE":0.01
+          }
+       }
+    },
+    {
+       "600745":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.37,
+             "STEREOTYPING-DOMINANCE":0.28,
+             "OBJECTIFICATION":0.15,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.05,
+             "SEXUAL-VIOLENCE":0.05
+          }
+       }
+    },
+    {
+       "600746":{
+          "Hard Label":"SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.16,
+             "STEREOTYPING-DOMINANCE":0.06,
+             "OBJECTIFICATION":0.14,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.11,
+             "SEXUAL-VIOLENCE":0.11
+          }
+       }
+    },
+    {
+       "600748":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.26,
+             "STEREOTYPING-DOMINANCE":0.38,
+             "OBJECTIFICATION":0.15,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.04,
+             "SEXUAL-VIOLENCE":0.04
+          }
+       }
+    },
+    {
+       "600749":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.19,
+             "STEREOTYPING-DOMINANCE":0.12,
+             "OBJECTIFICATION":0.43,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.07,
+             "SEXUAL-VIOLENCE":0.07
+          }
+       }
+    },
+    {
+       "600750":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.44,
+             "STEREOTYPING-DOMINANCE":0.12,
+             "OBJECTIFICATION":0.2,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600763":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.59,
+             "STEREOTYPING-DOMINANCE":0.092,
+             "OBJECTIFICATION":0.13,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.05,
+             "SEXUAL-VIOLENCE":0.05
+          }
+       }
+    },
+    {
+       "600764":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.23,
+             "STEREOTYPING-DOMINANCE":0.279,
+             "OBJECTIFICATION":0.23,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.04,
+             "SEXUAL-VIOLENCE":0.04
+          }
+       }
+    },
+    {
+       "600765":{
+          "Hard Label":"SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.13,
+             "STEREOTYPING-DOMINANCE":0.11,
+             "OBJECTIFICATION":0.18,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.21,
+             "SEXUAL-VIOLENCE":0.21
+          }
+       }
+    },
+    {
+       "600766":{
+          "Hard Label":"SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.11,
+             "STEREOTYPING-DOMINANCE":0.125,
+             "OBJECTIFICATION":0.24,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.23,
+             "SEXUAL-VIOLENCE":0.23
+          }
+       }
+    },
+    {
+       "600767":{
+          "Hard Label":"SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.09,
+             "STEREOTYPING-DOMINANCE":0.147,
+             "OBJECTIFICATION":0.15,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.26,
+             "SEXUAL-VIOLENCE":0.26
+          }
+       }
+    },
+    {
+       "600768":{
+          "Hard Label":"SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.19,
+             "STEREOTYPING-DOMINANCE":0.15,
+             "OBJECTIFICATION":0.21,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.17,
+             "SEXUAL-VIOLENCE":0.17
+          }
+       }
+    },
+    {
+       "600780":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.27,
+             "STEREOTYPING-DOMINANCE":0.33,
+             "OBJECTIFICATION":0.08,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.19,
+             "SEXUAL-VIOLENCE":0.19
+          }
+       }
+    },
+    {
+       "600783":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.64,
+             "STEREOTYPING-DOMINANCE":0.19,
+             "OBJECTIFICATION":0.07,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.09,
+             "SEXUAL-VIOLENCE":0.09
+          }
+       }
+    },
+    {
+       "600794":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.79,
+             "STEREOTYPING-DOMINANCE":0.08,
+             "OBJECTIFICATION":0.01,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.07,
+             "SEXUAL-VIOLENCE":0.07
+          }
+       }
+    },
+    {
+       "600801":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.55,
+             "STEREOTYPING-DOMINANCE":0.09,
+             "OBJECTIFICATION":0.08,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.25,
+             "SEXUAL-VIOLENCE":0.25
+          }
+       }
+    },
+    {
+       "600806":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.59,
+             "STEREOTYPING-DOMINANCE":0.14,
+             "OBJECTIFICATION":0.06,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.14,
+             "SEXUAL-VIOLENCE":0.14
+          }
+       }
+    },
+    {
+       "600811":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.03,
+             "STEREOTYPING-DOMINANCE":0.02,
+             "OBJECTIFICATION":0.93,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.01,
+             "SEXUAL-VIOLENCE":0.01
+          }
+       }
+    },
+    {
+       "600812":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.39,
+             "STEREOTYPING-DOMINANCE":0.24,
+             "OBJECTIFICATION":0.15,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.07,
+             "SEXUAL-VIOLENCE":0.07
+          }
+       }
+    },
+    {
+       "600813":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.14,
+             "STEREOTYPING-DOMINANCE":0.2,
+             "OBJECTIFICATION":0.47,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600814":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.03,
+             "STEREOTYPING-DOMINANCE":0.06,
+             "OBJECTIFICATION":0.81,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600816":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.03,
+             "STEREOTYPING-DOMINANCE":0.03,
+             "OBJECTIFICATION":0.92,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.01,
+             "SEXUAL-VIOLENCE":0.01
+          }
+       }
+    },
+    {
+       "600817":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.33,
+             "STEREOTYPING-DOMINANCE":0.34,
+             "OBJECTIFICATION":0.21,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.1,
+             "SEXUAL-VIOLENCE":0.1
+          }
+       }
+    },
+    {
+       "600818":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.4,
+             "STEREOTYPING-DOMINANCE":0.36,
+             "OBJECTIFICATION":0.06,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.09,
+             "SEXUAL-VIOLENCE":0.09
+          }
+       }
+    },
+    {
+       "600819":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.36,
+             "STEREOTYPING-DOMINANCE":0.36,
+             "OBJECTIFICATION":0.02,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.1,
+             "SEXUAL-VIOLENCE":0.1
+          }
+       }
+    },
+    {
+       "600820":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.45,
+             "STEREOTYPING-DOMINANCE":0.32,
+             "OBJECTIFICATION":0.05,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.12,
+             "SEXUAL-VIOLENCE":0.12
+          }
+       }
+    },
+    {
+       "600821":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.31,
+             "STEREOTYPING-DOMINANCE":0.42,
+             "OBJECTIFICATION":0.13,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.1,
+             "SEXUAL-VIOLENCE":0.1
+          }
+       }
+    },
+    {
+       "600822":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.51,
+             "STEREOTYPING-DOMINANCE":0.31,
+             "OBJECTIFICATION":0.08,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.02,
+             "SEXUAL-VIOLENCE":0.02
+          }
+       }
+    },
+    {
+       "600829":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.37,
+             "STEREOTYPING-DOMINANCE":0.42,
+             "OBJECTIFICATION":0.07,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.1,
+             "SEXUAL-VIOLENCE":0.1
+          }
+       }
+    },
+    {
+       "600830":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.32,
+             "STEREOTYPING-DOMINANCE":0.32,
+             "OBJECTIFICATION":0.15,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.13,
+             "SEXUAL-VIOLENCE":0.13
+          }
+       }
+    },
+    {
+       "600831":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.21,
+             "STEREOTYPING-DOMINANCE":0.46,
+             "OBJECTIFICATION":0.22,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.07,
+             "SEXUAL-VIOLENCE":0.07
+          }
+       }
+    },
+    {
+       "600832":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.12,
+             "STEREOTYPING-DOMINANCE":0.07,
+             "OBJECTIFICATION":0.51,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.27,
+             "SEXUAL-VIOLENCE":0.27
+          }
+       }
+    },
+    {
+       "600833":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.06,
+             "STEREOTYPING-DOMINANCE":0.37,
+             "OBJECTIFICATION":0.53,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.02,
+             "SEXUAL-VIOLENCE":0.02
+          }
+       }
+    },
+    {
+       "600834":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.19,
+             "STEREOTYPING-DOMINANCE":0.27,
+             "OBJECTIFICATION":0.39,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.14,
+             "SEXUAL-VIOLENCE":0.14
+          }
+       }
+    },
+    {
+       "600847":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.79,
+             "STEREOTYPING-DOMINANCE":0.17,
+             "OBJECTIFICATION":0.03,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.01,
+             "SEXUAL-VIOLENCE":0.01
+          }
+       }
+    },
+    {
+       "600848":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.21,
+             "STEREOTYPING-DOMINANCE":0.61,
+             "OBJECTIFICATION":0.12,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600849":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.42,
+             "STEREOTYPING-DOMINANCE":0.38,
+             "OBJECTIFICATION":0.03,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.12,
+             "SEXUAL-VIOLENCE":0.12
+          }
+       }
+    },
+    {
+       "600850":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.8,
+             "STEREOTYPING-DOMINANCE":0.15,
+             "OBJECTIFICATION":0.04,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.01,
+             "SEXUAL-VIOLENCE":0.01
+          }
+       }
+    },
+    {
+       "600851":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.67,
+             "STEREOTYPING-DOMINANCE":0.24,
+             "OBJECTIFICATION":0.03,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600852":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.34,
+             "STEREOTYPING-DOMINANCE":0.66,
+             "OBJECTIFICATION":0.0,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600853":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.08,
+             "STEREOTYPING-DOMINANCE":0.03,
+             "OBJECTIFICATION":0.86,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.01,
+             "SEXUAL-VIOLENCE":0.01
+          }
+       }
+    },
+    {
+       "600854":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.07,
+             "STEREOTYPING-DOMINANCE":0.03,
+             "OBJECTIFICATION":0.74,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.06,
+             "SEXUAL-VIOLENCE":0.06
+          }
+       }
+    },
+    {
+       "600855":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.04,
+             "STEREOTYPING-DOMINANCE":0.09,
+             "OBJECTIFICATION":0.87,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600856":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.01,
+             "STEREOTYPING-DOMINANCE":0.08,
+             "OBJECTIFICATION":0.91,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600857":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.01,
+             "STEREOTYPING-DOMINANCE":0.24,
+             "OBJECTIFICATION":0.74,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600858":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.02,
+             "STEREOTYPING-DOMINANCE":0.07,
+             "OBJECTIFICATION":0.87,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600870":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.81,
+             "STEREOTYPING-DOMINANCE":0.11,
+             "OBJECTIFICATION":0.05,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.02,
+             "SEXUAL-VIOLENCE":0.02
+          }
+       }
+    },
+    {
+       "600871":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.16,
+             "STEREOTYPING-DOMINANCE":0.08,
+             "OBJECTIFICATION":0.46,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.14,
+             "SEXUAL-VIOLENCE":0.14
+          }
+       }
+    },
+    {
+       "600872":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.18,
+             "STEREOTYPING-DOMINANCE":0.13,
+             "OBJECTIFICATION":0.56,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.07,
+             "SEXUAL-VIOLENCE":0.07
+          }
+       }
+    },
+    {
+       "600873":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.26,
+             "STEREOTYPING-DOMINANCE":0.13,
+             "OBJECTIFICATION":0.28,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.08,
+             "SEXUAL-VIOLENCE":0.08
+          }
+       }
+    },
+    {
+       "600874":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.1,
+             "STEREOTYPING-DOMINANCE":0.24,
+             "OBJECTIFICATION":0.63,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600875":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.14,
+             "STEREOTYPING-DOMINANCE":0.56,
+             "OBJECTIFICATION":0.16,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.11,
+             "SEXUAL-VIOLENCE":0.11
+          }
+       }
+    },
+    {
+       "600876":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.15,
+             "STEREOTYPING-DOMINANCE":0.28,
+             "OBJECTIFICATION":0.4,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.11,
+             "SEXUAL-VIOLENCE":0.11
+          }
+       }
+    },
+    {
+       "600883":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.47,
+             "STEREOTYPING-DOMINANCE":0.42,
+             "OBJECTIFICATION":0.05,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.05,
+             "SEXUAL-VIOLENCE":0.05
+          }
+       }
+    },
+    {
+       "600884":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.6,
+             "STEREOTYPING-DOMINANCE":0.24,
+             "OBJECTIFICATION":0.07,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.06,
+             "SEXUAL-VIOLENCE":0.06
+          }
+       }
+    },
+    {
+       "600889":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.66,
+             "STEREOTYPING-DOMINANCE":0.235,
+             "OBJECTIFICATION":0.01,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600890":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.86,
+             "STEREOTYPING-DOMINANCE":0.07,
+             "OBJECTIFICATION":0.01,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.04,
+             "SEXUAL-VIOLENCE":0.04
+          }
+       }
+    },
+    {
+       "600891":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.86,
+             "STEREOTYPING-DOMINANCE":0.03,
+             "OBJECTIFICATION":0.06,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.04,
+             "SEXUAL-VIOLENCE":0.04
+          }
+       }
+    },
+    {
+       "600894":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.83,
+             "STEREOTYPING-DOMINANCE":0.04,
+             "OBJECTIFICATION":0.01,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.07,
+             "SEXUAL-VIOLENCE":0.07
+          }
+       }
+    },
+    {
+       "600895":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.38,
+             "STEREOTYPING-DOMINANCE":0.31,
+             "OBJECTIFICATION":0.09,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.2,
+             "SEXUAL-VIOLENCE":0.2
+          }
+       }
+    },
+    {
+       "600896":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.5,
+             "STEREOTYPING-DOMINANCE":0.28,
+             "OBJECTIFICATION":0.1,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600897":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.61,
+             "STEREOTYPING-DOMINANCE":0.15,
+             "OBJECTIFICATION":0.1,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.01,
+             "SEXUAL-VIOLENCE":0.01
+          }
+       }
+    },
+    {
+       "600898":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.61,
+             "STEREOTYPING-DOMINANCE":0.2,
+             "OBJECTIFICATION":0.11,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.05,
+             "SEXUAL-VIOLENCE":0.05
+          }
+       }
+    },
+    {
+       "600899":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.46,
+             "STEREOTYPING-DOMINANCE":0.03,
+             "OBJECTIFICATION":0.02,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.06,
+             "SEXUAL-VIOLENCE":0.06
+          }
+       }
+    },
+    {
+       "600900":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.67,
+             "STEREOTYPING-DOMINANCE":0.14,
+             "OBJECTIFICATION":0.06,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.06,
+             "SEXUAL-VIOLENCE":0.06
+          }
+       }
+    },
+    {
+       "600901":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.59,
+             "STEREOTYPING-DOMINANCE":0.11,
+             "OBJECTIFICATION":0.08,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.06,
+             "SEXUAL-VIOLENCE":0.06
+          }
+       }
+    },
+    {
+       "600902":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.51,
+             "STEREOTYPING-DOMINANCE":0.08,
+             "OBJECTIFICATION":0.06,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.34,
+             "SEXUAL-VIOLENCE":0.34
+          }
+       }
+    },
+    {
+       "600903":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.5,
+             "STEREOTYPING-DOMINANCE":0.09,
+             "OBJECTIFICATION":0.15,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.07,
+             "SEXUAL-VIOLENCE":0.07
+          }
+       }
+    },
+    {
+       "600904":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.54,
+             "STEREOTYPING-DOMINANCE":0.21,
+             "OBJECTIFICATION":0.13,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.05,
+             "SEXUAL-VIOLENCE":0.05
+          }
+       }
+    },
+    {
+       "600905":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.32,
+             "STEREOTYPING-DOMINANCE":0.4,
+             "OBJECTIFICATION":0.11,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.13,
+             "SEXUAL-VIOLENCE":0.13
+          }
+       }
+    },
+    {
+       "600906":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.37,
+             "STEREOTYPING-DOMINANCE":0.47,
+             "OBJECTIFICATION":0.05,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.08,
+             "SEXUAL-VIOLENCE":0.08
+          }
+       }
+    },
+    {
+       "600907":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.5,
+             "STEREOTYPING-DOMINANCE":0.31,
+             "OBJECTIFICATION":0.08,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.01,
+             "SEXUAL-VIOLENCE":0.01
+          }
+       }
+    },
+    {
+       "600908":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.46,
+             "STEREOTYPING-DOMINANCE":0.26,
+             "OBJECTIFICATION":0.14,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.11,
+             "SEXUAL-VIOLENCE":0.11
+          }
+       }
+    },
+    {
+       "600909":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.79,
+             "STEREOTYPING-DOMINANCE":0.11,
+             "OBJECTIFICATION":0.06,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.02,
+             "SEXUAL-VIOLENCE":0.02
+          }
+       }
+    },
+    {
+       "600910":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.59,
+             "STEREOTYPING-DOMINANCE":0.35,
+             "OBJECTIFICATION":0.0,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.02,
+             "SEXUAL-VIOLENCE":0.02
+          }
+       }
+    },
+    {
+       "600911":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.52,
+             "STEREOTYPING-DOMINANCE":0.24,
+             "OBJECTIFICATION":0.07,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.11,
+             "SEXUAL-VIOLENCE":0.11
+          }
+       }
+    },
+    {
+       "600912":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.4,
+             "STEREOTYPING-DOMINANCE":0.41,
+             "OBJECTIFICATION":0.11,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.04,
+             "SEXUAL-VIOLENCE":0.04
+          }
+       }
+    },
+    {
+       "600913":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.29,
+             "STEREOTYPING-DOMINANCE":0.39,
+             "OBJECTIFICATION":0.23,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.08,
+             "SEXUAL-VIOLENCE":0.08
+          }
+       }
+    },
+    {
+       "600914":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.78,
+             "STEREOTYPING-DOMINANCE":0.15,
+             "OBJECTIFICATION":0.04,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.02,
+             "SEXUAL-VIOLENCE":0.02
+          }
+       }
+    },
+    {
+       "600915":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.18,
+             "STEREOTYPING-DOMINANCE":0.67,
+             "OBJECTIFICATION":0.08,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600916":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.49,
+             "STEREOTYPING-DOMINANCE":0.392,
+             "OBJECTIFICATION":0.01,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.04,
+             "SEXUAL-VIOLENCE":0.04
+          }
+       }
+    },
+    {
+       "600917":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.31,
+             "STEREOTYPING-DOMINANCE":0.55,
+             "OBJECTIFICATION":0.08,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600918":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.43,
+             "STEREOTYPING-DOMINANCE":0.32,
+             "OBJECTIFICATION":0.04,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.14,
+             "SEXUAL-VIOLENCE":0.14
+          }
+       }
+    },
+    {
+       "600919":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.46,
+             "STEREOTYPING-DOMINANCE":0.18,
+             "OBJECTIFICATION":0.08,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.02,
+             "SEXUAL-VIOLENCE":0.02
+          }
+       }
+    },
+    {
+       "600920":{
+          "Hard Label":"SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.28,
+             "STEREOTYPING-DOMINANCE":0.16,
+             "OBJECTIFICATION":0.15,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600921":{
+          "Hard Label":"SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.23,
+             "STEREOTYPING-DOMINANCE":0.22,
+             "OBJECTIFICATION":0.17,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.06,
+             "SEXUAL-VIOLENCE":0.06
+          }
+       }
+    },
+    {
+       "600922":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.51,
+             "STEREOTYPING-DOMINANCE":0.1,
+             "OBJECTIFICATION":0.12,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.02,
+             "SEXUAL-VIOLENCE":0.02
+          }
+       }
+    },
+    {
+       "600923":{
+          "Hard Label":"SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.24,
+             "STEREOTYPING-DOMINANCE":0.2,
+             "OBJECTIFICATION":0.1,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.14,
+             "SEXUAL-VIOLENCE":0.14
+          }
+       }
+    },
+    {
+       "600924":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.53,
+             "STEREOTYPING-DOMINANCE":0.16,
+             "OBJECTIFICATION":0.1,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.01,
+             "SEXUAL-VIOLENCE":0.01
+          }
+       }
+    },
+    {
+       "600925":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.53,
+             "STEREOTYPING-DOMINANCE":0.29,
+             "OBJECTIFICATION":0.07,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.08,
+             "SEXUAL-VIOLENCE":0.08
+          }
+       }
+    },
+    {
+       "600926":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.84,
+             "STEREOTYPING-DOMINANCE":0.07,
+             "OBJECTIFICATION":0.06,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.01,
+             "SEXUAL-VIOLENCE":0.01
+          }
+       }
+    },
+    {
+       "600927":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.43,
+             "STEREOTYPING-DOMINANCE":0.32,
+             "OBJECTIFICATION":0.1,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.08,
+             "SEXUAL-VIOLENCE":0.08
+          }
+       }
+    },
+    {
+       "600928":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.51,
+             "STEREOTYPING-DOMINANCE":0.23,
+             "OBJECTIFICATION":0.17,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.08,
+             "SEXUAL-VIOLENCE":0.08
+          }
+       }
+    },
+    {
+       "600929":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.72,
+             "STEREOTYPING-DOMINANCE":0.1,
+             "OBJECTIFICATION":0.07,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.08,
+             "SEXUAL-VIOLENCE":0.08
+          }
+       }
+    },
+    {
+       "600930":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.34,
+             "STEREOTYPING-DOMINANCE":0.42,
+             "OBJECTIFICATION":0.13,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.06,
+             "SEXUAL-VIOLENCE":0.06
+          }
+       }
+    },
+    {
+       "600931":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.55,
+             "STEREOTYPING-DOMINANCE":0.289,
+             "OBJECTIFICATION":0.03,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600932":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.41,
+             "STEREOTYPING-DOMINANCE":0.24,
+             "OBJECTIFICATION":0.2,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.01,
+             "SEXUAL-VIOLENCE":0.01
+          }
+       }
+    },
+    {
+       "600933":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.13,
+             "STEREOTYPING-DOMINANCE":0.43,
+             "OBJECTIFICATION":0.17,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.11,
+             "SEXUAL-VIOLENCE":0.11
+          }
+       }
+    },
+    {
+       "600934":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.59,
+             "STEREOTYPING-DOMINANCE":0.37,
+             "OBJECTIFICATION":0.0,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600935":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.62,
+             "STEREOTYPING-DOMINANCE":0.21,
+             "OBJECTIFICATION":0.04,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.08,
+             "SEXUAL-VIOLENCE":0.08
+          }
+       }
+    },
+    {
+       "600936":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.54,
+             "STEREOTYPING-DOMINANCE":0.19,
+             "OBJECTIFICATION":0.08,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.12,
+             "SEXUAL-VIOLENCE":0.12
+          }
+       }
+    },
+    {
+       "600937":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.55,
+             "STEREOTYPING-DOMINANCE":0.11,
+             "OBJECTIFICATION":0.2,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.01,
+             "SEXUAL-VIOLENCE":0.01
+          }
+       }
+    },
+    {
+       "600938":{
+          "Hard Label":"SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.22,
+             "STEREOTYPING-DOMINANCE":0.13,
+             "OBJECTIFICATION":0.06,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.16,
+             "SEXUAL-VIOLENCE":0.16
+          }
+       }
+    },
+    {
+       "600939":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.56,
+             "STEREOTYPING-DOMINANCE":0.21,
+             "OBJECTIFICATION":0.0,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.13,
+             "SEXUAL-VIOLENCE":0.13
+          }
+       }
+    },
+    {
+       "600940":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.57,
+             "STEREOTYPING-DOMINANCE":0.26,
+             "OBJECTIFICATION":0.06,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.08,
+             "SEXUAL-VIOLENCE":0.08
+          }
+       }
+    },
+    {
+       "600941":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.48,
+             "STEREOTYPING-DOMINANCE":0.17,
+             "OBJECTIFICATION":0.25,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.05,
+             "SEXUAL-VIOLENCE":0.05
+          }
+       }
+    },
+    {
+       "600942":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.52,
+             "STEREOTYPING-DOMINANCE":0.19,
+             "OBJECTIFICATION":0.04,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.22,
+             "SEXUAL-VIOLENCE":0.22
+          }
+       }
+    },
+    {
+       "600943":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.44,
+             "STEREOTYPING-DOMINANCE":0.25,
+             "OBJECTIFICATION":0.08,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.12,
+             "SEXUAL-VIOLENCE":0.12
+          }
+       }
+    },
+    {
+       "600946":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.77,
+             "STEREOTYPING-DOMINANCE":0.08,
+             "OBJECTIFICATION":0.0,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.01,
+             "SEXUAL-VIOLENCE":0.01
+          }
+       }
+    },
+    {
+       "600955":{
+          "Hard Label":"MISOGYNY-NON-SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.0,
+             "STEREOTYPING-DOMINANCE":0.12,
+             "OBJECTIFICATION":0.32,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.55,
+             "SEXUAL-VIOLENCE":0.55
+          }
+       }
+    },
+    {
+       "600956":{
+          "Hard Label":"MISOGYNY-NON-SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.02,
+             "STEREOTYPING-DOMINANCE":0.12,
+             "OBJECTIFICATION":0.05,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.81,
+             "SEXUAL-VIOLENCE":0.81
+          }
+       }
+    },
+    {
+       "600957":{
+          "Hard Label":"MISOGYNY-NON-SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.32,
+             "STEREOTYPING-DOMINANCE":0.14,
+             "OBJECTIFICATION":0.1,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.35,
+             "SEXUAL-VIOLENCE":0.35
+          }
+       }
+    },
+    {
+       "600958":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.05,
+             "STEREOTYPING-DOMINANCE":0.51,
+             "OBJECTIFICATION":0.3,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.1,
+             "SEXUAL-VIOLENCE":0.1
+          }
+       }
+    },
+    {
+       "600959":{
+          "Hard Label":"MISOGYNY-NON-SEXUAL-VIOLENCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.0,
+             "STEREOTYPING-DOMINANCE":0.06,
+             "OBJECTIFICATION":0.09,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.85,
+             "SEXUAL-VIOLENCE":0.85
+          }
+       }
+    },
+    {
+       "600960":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.21,
+             "STEREOTYPING-DOMINANCE":0.2,
+             "OBJECTIFICATION":0.32,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.22,
+             "SEXUAL-VIOLENCE":0.22
+          }
+       }
+    },
+    {
+       "600961":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.04,
+             "STEREOTYPING-DOMINANCE":0.26,
+             "OBJECTIFICATION":0.56,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.09,
+             "SEXUAL-VIOLENCE":0.09
+          }
+       }
+    },
+    {
+       "600962":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.18,
+             "STEREOTYPING-DOMINANCE":0.35,
+             "OBJECTIFICATION":0.29,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.18,
+             "SEXUAL-VIOLENCE":0.18
+          }
+       }
+    },
+    {
+       "600963":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.14,
+             "STEREOTYPING-DOMINANCE":0.43,
+             "OBJECTIFICATION":0.25,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.16,
+             "SEXUAL-VIOLENCE":0.16
+          }
+       }
+    },
+    {
+       "600964":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.12,
+             "STEREOTYPING-DOMINANCE":0.3,
+             "OBJECTIFICATION":0.45,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.09,
+             "SEXUAL-VIOLENCE":0.09
+          }
+       }
+    },
+    {
+       "600965":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.06,
+             "STEREOTYPING-DOMINANCE":0.31,
+             "OBJECTIFICATION":0.49,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.08,
+             "SEXUAL-VIOLENCE":0.08
+          }
+       }
+    },
+    {
+       "600966":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.21,
+             "STEREOTYPING-DOMINANCE":0.32,
+             "OBJECTIFICATION":0.37,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.06,
+             "SEXUAL-VIOLENCE":0.06
+          }
+       }
+    },
+    {
+       "600967":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.2,
+             "STEREOTYPING-DOMINANCE":0.33,
+             "OBJECTIFICATION":0.4,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.02,
+             "SEXUAL-VIOLENCE":0.02
+          }
+       }
+    },
+    {
+       "600968":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.19,
+             "STEREOTYPING-DOMINANCE":0.27,
+             "OBJECTIFICATION":0.33,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.06,
+             "SEXUAL-VIOLENCE":0.06
+          }
+       }
+    },
+    {
+       "600969":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.13,
+             "STEREOTYPING-DOMINANCE":0.29,
+             "OBJECTIFICATION":0.31,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.01,
+             "SEXUAL-VIOLENCE":0.01
+          }
+       }
+    },
+    {
+       "600970":{
+          "Hard Label":"IDEOLOGICAL-INEQUALITY",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.5,
+             "STEREOTYPING-DOMINANCE":0.24,
+             "OBJECTIFICATION":0.13,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.1,
+             "SEXUAL-VIOLENCE":0.1
+          }
+       }
+    },
+    {
+       "600971":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.17,
+             "STEREOTYPING-DOMINANCE":0.36,
+             "OBJECTIFICATION":0.32,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600972":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.07,
+             "STEREOTYPING-DOMINANCE":0.68,
+             "OBJECTIFICATION":0.21,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.02,
+             "SEXUAL-VIOLENCE":0.02
+          }
+       }
+    },
+    {
+       "600973":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.11,
+             "STEREOTYPING-DOMINANCE":0.24,
+             "OBJECTIFICATION":0.63,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.01,
+             "SEXUAL-VIOLENCE":0.01
+          }
+       }
+    },
+    {
+       "600974":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.12,
+             "STEREOTYPING-DOMINANCE":0.47,
+             "OBJECTIFICATION":0.37,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.01,
+             "SEXUAL-VIOLENCE":0.01
+          }
+       }
+    },
+    {
+       "600975":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.13,
+             "STEREOTYPING-DOMINANCE":0.57,
+             "OBJECTIFICATION":0.26,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600976":{
+          "Hard Label":"STEREOTYPING-DOMINANCE",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.33,
+             "STEREOTYPING-DOMINANCE":0.41,
+             "OBJECTIFICATION":0.23,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.03,
+             "SEXUAL-VIOLENCE":0.03
+          }
+       }
+    },
+    {
+       "600977":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.02,
+             "STEREOTYPING-DOMINANCE":0.18,
+             "OBJECTIFICATION":0.8,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.0,
+             "SEXUAL-VIOLENCE":0.0
+          }
+       }
+    },
+    {
+       "600978":{
+          "Hard Label":"OBJECTIFICATION",
+          "Soft Label":{
+             "IDEOLOGICAL-INEQUALITY":0.06,
+             "STEREOTYPING-DOMINANCE":0.15,
+             "OBJECTIFICATION":0.77,
+             "MISOGYNY-NON-SEXUAL-VIOLENCE":0.02,
+             "SEXUAL-VIOLENCE":0.02
+          }
+       }
+    }
+ ]
